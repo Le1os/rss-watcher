@@ -1,0 +1,4 @@
+NODE_ENV = development
+PORT = 5000
+MONGO_URI = mongodb+srv://admin:admin0@cluster0.fuc12.mongodb.net/posts?retryWrites=true&w=majority
+JWT_SECRET = abc123
