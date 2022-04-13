@@ -1,7 +1,7 @@
 
 
 ```
-I Rename .envx to .env !
+I   Rename .envx to .env !
 
 #
 
