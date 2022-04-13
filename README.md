@@ -1,8 +1,10 @@
 
-I Rename .envx to .env !
 
 ```
+I Rename .envx to .env !
+
 #
+
 II  Install Dependencies:
 
 1) npm install  
